@@ -1,7 +1,3 @@
-Here’s a professional and detailed **README** file based on your project **Controlled Home by Mobile App** from GitHub:
-
----
-
 # Controlled Home by Mobile App
 
 This project demonstrates a **smart home automation system** controlled via a mobile application. The system allows users to manage home appliances through an embedded system built around the **ATmega32 microcontroller** and communicates with a mobile app for remote control. The project uses Bluetooth for wireless communication between the mobile app and the home control unit.
@@ -91,6 +87,7 @@ The repository is organized as follows:
 /SERVICES          # Contains service-related code such as Bluetooth communication
 /README.md         # Documentation file (this file)
 ```
+
 ## Future Improvements
 
 - Add support for Wi-Fi communication to allow control over a larger distance.
@@ -103,8 +100,4 @@ The repository is organized as follows:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This **README** provides an overview of the system, including how to set it up and how it functions, making it easier for others to contribute or use your project.
+This project is licensed under the MIT License - see the [LICENSE](https://mit-license.org/) file for details.
